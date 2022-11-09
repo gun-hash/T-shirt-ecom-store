@@ -1,10 +1,19 @@
 import HomePage from "./Home.Page";
-import About from "./About.Page";
-import Categories from "./Categories.Page";
-import Contact from "./Contact.Page";
-import Error from "./Error.Page";
-import Login from "./Login.Page";
-import News from "./News.Page";
-import Register from "./Register.Page";
+import AboutPage from "./About.Page";
+import CategoriesPage from "./Categories.Page";
+import ContactPage from "./Contact.Page";
+import ErrorPage from "./Error.Page";
+import LoginPage from "./Login.Page";
+import NewsPage from "./News.Page";
+import RegisterPage from "./Register.Page";
 
-export { HomePage, About, Categories, Contact, Error, Login, News, Register };
+export {
+  HomePage,
+  AboutPage,
+  CategoriesPage,
+  ContactPage,
+  ErrorPage,
+  LoginPage,
+  NewsPage,
+  RegisterPage,
+};

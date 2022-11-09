@@ -1,5 +1,5 @@
-const Error = () => {
-  return <></>;
+const ErrorPage = () => {
+  return <>Error</>;
 };
 
-export default Error;
+export default ErrorPage;

@@ -1,5 +1,5 @@
-const Register = () => {
+const RegisterPage = () => {
   return <></>;
 };
 
-export default Register;
+export default RegisterPage;

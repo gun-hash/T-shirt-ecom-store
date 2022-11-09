@@ -1,5 +1,5 @@
-const News = () => {
+const NewsPage = () => {
   return <></>;
 };
 
-export default News;
+export default NewsPage;

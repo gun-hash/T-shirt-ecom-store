@@ -1,3 +1,4 @@
-import Header from "./Header.Component";
+import HeaderComponent from "./Header.Component";
+import FooterComponent from "./Footer.Component";
 
-export { Header };
+export { HeaderComponent, FooterComponent };

@@ -1,5 +1,5 @@
-const Header = () => {
+const HeaderComponent = () => {
   return <></>;
 };
 
-export default Header;
+export default HeaderComponent;
