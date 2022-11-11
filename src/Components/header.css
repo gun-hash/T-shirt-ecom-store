@@ -1,0 +1,17 @@
+.navbar{
+    margin: 0 100px;
+    height: 150px;
+}
+.navbar .logo img{
+    height: 150px;
+}
+.navbar .nav-elements ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar .nav-elements ul li{
+    display:inline;
+    float: left;
+}
